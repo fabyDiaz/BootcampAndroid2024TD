@@ -1,0 +1,13 @@
+Proceso ImprimiendoPares
+	
+	Definir i como Entero;
+	i<-0;
+	
+	Mientras i<=100 Hacer
+		Si i MOD 2 = 0 Entonces
+			Escribir i;
+		FinSi
+		i<-i+1;
+	FinMientras
+	
+FinProceso

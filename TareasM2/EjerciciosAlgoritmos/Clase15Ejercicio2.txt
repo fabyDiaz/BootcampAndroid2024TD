@@ -1,0 +1,24 @@
+Proceso Vector
+	
+	Definir N,i, num, suma Como Entero;
+	Definir arreglo Como Entero;
+	suma<-0;
+	
+	Escribir "Ingrese el tamaño del arreglo";
+	Leer N; 
+	
+	Dimension arreglo[N];
+	
+	Para i<-0 Hasta N-1 Con Paso 1 Hacer
+		Escribir "Ingrese número";
+		Leer num;
+		arreglo[i]<-num;
+	FinPara
+	
+	Para i<-0 Hasta N-1 Con Paso 1 Hacer
+		suma<-suma+arreglo[i];
+	FinPara
+	
+	Escribir "La suma es ", suma;
+	
+FinProceso

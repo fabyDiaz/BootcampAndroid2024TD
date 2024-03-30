@@ -1,0 +1,24 @@
+Proceso Donanates 
+	
+	Definir edad Como Entero; 
+	Definir peso Como Real;
+	
+	Escribir "Ingrese edad"; 
+	Leer edad; 
+	
+	Escribir "Ingrese peso";
+	Leer peso;
+	
+	Si edad>=18 Y edad <=65 Y peso>=50 Entonces
+		Escribir "PUEDE DONAR";
+	SiNo
+		Si edad<18 Y edad>65 Entonces
+			Escribir "NO PUEDE DONAR";
+		SiNo
+			Si edad>=18 Y edad <=65 Y peso<50 Entonces
+				Escribir "NO PUEDE DONAR";
+			FinSi
+		FinSi
+	FinSi
+	
+FinProceso

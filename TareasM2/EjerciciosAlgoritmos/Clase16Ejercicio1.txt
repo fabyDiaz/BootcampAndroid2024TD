@@ -1,0 +1,30 @@
+SubProceso cambio <- Conversor ( monto, moneda  )
+	Definir cambio como Real;
+	Si Minusculas(moneda) = "libras" Entonces
+		cambio<-monto*0.86;
+	FinSi
+	Si Minusculas(moneda) = "dolares" Entonces
+		cambio<-monto*1.28611;
+	FinSi
+	Si Minusculas(moneda) = "yenes" Entonces
+		cambio<-monto*129.852;
+	FinSi
+	
+FinSubProceso
+
+Proceso ConversorDeMoneda
+	
+	Definir montoEuros Como Real;
+	Definir moneda Como Caracter; 
+	Definir cambio Como Real;
+	
+	Escribir "Ingrese el monto en Euros";
+	Leer montoEuros;
+	Escribir "Ingrese el tipo de cambio: libras, dolares o yenes";
+	Leer moneda;
+	
+	cambio<- Conversor (montoEuros, moneda);
+	
+	Escribir montoEuros, " Euros son ", cambio ," ", moneda;
+	
+FinProceso

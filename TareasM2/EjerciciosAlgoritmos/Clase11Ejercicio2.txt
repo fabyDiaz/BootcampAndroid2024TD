@@ -1,0 +1,13 @@
+Proceso MayorMenor
+	
+	Definir edad como Entero; 
+	Escribir "Ingrese edad"; 
+	Leer edad; 
+	
+	Si edad <18 Entonces
+		Escribir "Es menor de edad"; 
+	SiNo
+		Escribir "Es mayor de edad"; 
+	FinSi
+	
+FinProceso

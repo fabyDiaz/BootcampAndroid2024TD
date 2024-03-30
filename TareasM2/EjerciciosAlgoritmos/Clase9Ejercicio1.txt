@@ -1,0 +1,21 @@
+Proceso Superliga
+	
+	Definir pg,pe,pp Como Entero;
+	Definir ppg, ppe, ptotal Como Entero;
+	
+	Escribir "Ingrese el número de partidos ganados";
+	Leer pg; 
+
+	Escribir "Ingrese el número de partidos empatados"; 
+	Leer pe; 
+
+	Escribir "Ingrese el número de partidos perdidos";
+	Leer pp; 
+
+	ppg<-3*pg;
+	pe<-1*pe;
+	ptotal<-ppg+pe;
+
+	Escribir "El puntaje total es: ", ptotal;
+
+FinProceso

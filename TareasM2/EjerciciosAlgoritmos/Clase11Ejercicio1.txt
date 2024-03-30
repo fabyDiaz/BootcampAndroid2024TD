@@ -1,0 +1,16 @@
+Proceso ContrasenaIncorrecta
+	
+	Definir contrasena Como Caracter;
+	Definir contrasenaUsuario Como Caracter;
+	
+	contrasena <- "ejemplo";
+	Escribir "Ingrese contrasena"; 
+	Leer contrasenaUsuario;
+	
+	Si contrasena = Minusculas(contrasenaUsuario) Entonces
+		Escribir "La contraseña es correcta";
+	SiNo
+		Escribir "La contraseña es incorrecta";
+	FinSi
+	
+FinProceso

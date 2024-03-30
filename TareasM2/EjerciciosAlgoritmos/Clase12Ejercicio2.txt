@@ -1,0 +1,29 @@
+Proceso Calculadora
+	
+	Definir a Como Entero;
+	Definir b Como Entero;
+	Definir opcion Como Entero; 
+	
+	Escribir "Ingrese un número"; 
+	Leer a; 
+	Escribir "Ingrese otro número";
+	Leer b; 
+	
+	Escribir "Ingrese un opción";
+	Escribir "1. Suma | 2. Resta | 3. Multiplicación | 4. Divisón ";
+	Leer opcion;
+	
+	Segun opcion Hacer
+		1: 
+			Escribir a, " + ", b, " = ", a+b;
+		2:
+			Escribir a, " - ", b, " = ", a-b;
+		3:
+			Escribir a, " x ", b, " = ", a*b;
+		4: 
+			Escribir a, " / ", b, " = ", a/b;
+		De Otro Modo:
+			Escribir "Opcion no válida";
+	FinSegun
+	
+FinProceso

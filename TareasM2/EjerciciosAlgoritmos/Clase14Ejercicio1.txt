@@ -1,0 +1,11 @@
+Proceso SumandoDel1Al10
+	
+	definir suma,i Como Entero;
+	suma<-0;
+	Para i<-0 Hasta 10 Con Paso 1 Hacer
+		suma <- suma + i;
+	FinPara
+	
+	Escribir "La suma es ",suma;
+	
+FinProceso
