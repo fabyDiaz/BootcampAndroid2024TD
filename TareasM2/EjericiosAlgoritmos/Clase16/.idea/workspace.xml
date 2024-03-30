@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ce9d17e-f676-4e5f-90f6-bc5df72041c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../EvaluacionIntegradoraM2/AlkeWalletM2/src/DTO/Aplicacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../EvaluacionIntegradoraM2/AlkeWalletM2/src/DTO/CuentaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../EvaluacionIntegradoraM2/AlkeWalletM2/src/DTO/MovimientosBancarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../EvaluacionIntegradoraM2/AlkeWalletM2/src/DTO/Sesion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EvaluacionIntegradoraM2/AlkeWalletM2/src/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../EvaluacionIntegradoraM2/AlkeWalletM2/src/DTO/Usuario.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2eO04o4yPWzMm95YIaV6zSQBfIw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/fabio/TalentoDigitalGit/TareasM2/EjerciciosAlgoritmos/Clase16"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ProcedimientoArreglado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProcedimientoArreglado" />
+      <module name="Clase16" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProcedimientoArreglado" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ce9d17e-f676-4e5f-90f6-bc5df72041c7" name="Changes" comment="" />
+      <created>1711760131464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711760131464</updated>
+    </task>
+    <servers />
+  </component>
+</project>
