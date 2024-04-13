@@ -1,11 +1,8 @@
-import java.util.Locale;
-import java.util.Scanner;
-
 public class ProcedimientoArreglado {
 
     public static void main(String[] args) {
 
-        String frutas[]={"Manzanas", "Peras", "Uvas", "Naranjas", "Duráznos", "Plátanos"};
+        String frutas[]={"Manzanas", "Peras", "Uvas", "Naranjas", "Melón", "Plátanos"};
         MostrarValoresArreglo(frutas);
 
     }
