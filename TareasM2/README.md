@@ -1,12 +1,12 @@
-##TAREAS MÓDULO 2
+# TAREAS MÓDULO 2
 
 **Me confundí y subí todas las consignas. Aquí dejó lo que corresponde a las tareas
 En la carpeta, "Ejercicios Algoritmos" están las tareas de la Clase 8 a la 16
-En la carpeta, "ActividadesModulo2" están lo ejercicios de la Clase 17 a la 26, que corresponden los ejercicios hechos en Java 
+En la carpeta, "ActividadesModulo2" están lo ejercicios de la Clase 17 a la 26, que corresponden los ejercicios hechos en Java**
 
 Los 15 ejercicios que corresponden a la tarea son: 
 
-**Actividades Algoritmos: 
+**Actividades Algoritmos: **
 1. Superliga: https://github.com/fabyDiaz/BootcampAndroid2024TD/blob/master/TareasM2/EjerciciosAlgoritmos/Clase9Ejercicio1.txt <br>
 2. Contraseña incorrecta: https://github.com/fabyDiaz/BootcampAndroid2024TD/blob/master/TareasM2/EjerciciosAlgoritmos/Clase11Ejercicio1.txt<br>
 3. Donanates: https://github.com/fabyDiaz/BootcampAndroid2024TD/blob/master/TareasM2/EjerciciosAlgoritmos/Clase12Ejercicio1.txt <br>
