@@ -1,12 +1,12 @@
 # TAREAS MÓDULO 2
 
-**Me confundí y subí todas las consignas. Aquí dejó lo que corresponde a las tareas
-En la carpeta, "Ejercicios Algoritmos" están las tareas de la Clase 8 a la 16
-En la carpeta, "ActividadesModulo2" están lo ejercicios de la Clase 17 a la 26, que corresponden los ejercicios hechos en Java**
+**Me confundí y subí todas las consignas. Aquí dejó lo que corresponde a las tareas** <br>
+**En la carpeta, "Ejercicios Algoritmos" están las tareas de la Clase 8 a la 16**<br>
+**En la carpeta, "ActividadesModulo2" están lo ejercicios de la Clase 17 a la 26, que corresponden los ejercicios hechos en Java**<br>
 
-Los 15 ejercicios que corresponden a la tarea son: 
+Los 15 ejercicios que corresponden a la tarea son: <br>
 
-**Actividades Algoritmos: **
+**Actividades Algoritmos:**<br>
 1. Superliga: https://github.com/fabyDiaz/BootcampAndroid2024TD/blob/master/TareasM2/EjerciciosAlgoritmos/Clase9Ejercicio1.txt <br>
 2. Contraseña incorrecta: https://github.com/fabyDiaz/BootcampAndroid2024TD/blob/master/TareasM2/EjerciciosAlgoritmos/Clase11Ejercicio1.txt<br>
 3. Donanates: https://github.com/fabyDiaz/BootcampAndroid2024TD/blob/master/TareasM2/EjerciciosAlgoritmos/Clase12Ejercicio1.txt <br>
@@ -16,7 +16,7 @@ Los 15 ejercicios que corresponden a la tarea son:
 7. Vector: https://github.com/fabyDiaz/BootcampAndroid2024TD/blob/master/TareasM2/EjerciciosAlgoritmos/Clase15Ejercicio2.txt<br>
 8. Live Coding (conversor de monedas): https://github.com/fabyDiaz/BootcampAndroid2024TD/blob/master/TareasM2/EjerciciosAlgoritmos/Clase16Ejercicio1.txt<br><br>
 
-**Actividades Java
+**Actividades Java**<br>
 9. Procedimiento Arreglado: https://github.com/fabyDiaz/BootcampAndroid2024TD/blob/master/TareasM2/EjerciciosAlgoritmos/Clase16/src/ProcedimientoArreglado.java<br>
 10. Operando: https://github.com/fabyDiaz/BootcampAndroid2024TD/blob/master/TareasM2/ActividadesModulo2/src/Clase18.java<br>
 11. Iterando: https://github.com/fabyDiaz/BootcampAndroid2024TD/blob/master/TareasM2/ActividadesModulo2/src/Clase18.java<br>
