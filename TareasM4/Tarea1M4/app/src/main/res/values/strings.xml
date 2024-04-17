@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Modulo4</string>
+    <string name="alke_wallet">Alke Wallet</string>
+    <string name="texto_login">El lugar más seguro para tu dinero</string>
+    <string name="crear_cuenta_nueva">Crear cuenta nueva</string>
+    <string name="ya_tienes_cuenta">Ya tienes cuenta?</string>
+</resources>

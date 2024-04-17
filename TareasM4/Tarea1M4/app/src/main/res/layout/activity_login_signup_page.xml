@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_loginsignup"
+    tools:context=".LoginSignupPageActivity">
+
+    <ImageView
+        android:id="@+id/imageRectangulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_corner"
+        android:padding="25dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="200dp"
+        app:srcCompat="@drawable/path" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:text="@string/alke_wallet"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:fontFamily="@font/jua"
+        app:layout_constraintTop_toBottomOf="@id/imageRectangulo"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:text="@string/texto_login"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:fontFamily="@font/jua"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="400dp" />
+
+    <Button
+        android:layout_width="315dp"
+        android:layout_height="49dp"
+        android:background="@drawable/rounded_corner_button"
+        android:text="@string/crear_cuenta_nueva"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:fontFamily="@font/jua"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginBottom="100dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:text="@string/ya_tienes_cuenta"
+        android:textColor="@color/celeste"
+        android:textSize="14sp"
+        android:fontFamily="@font/jua"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginBottom="50dp"
+       />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

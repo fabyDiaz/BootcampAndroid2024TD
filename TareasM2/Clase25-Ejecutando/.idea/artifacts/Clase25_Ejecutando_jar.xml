@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Clase25-Ejecutando:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Clase25_Ejecutando_jar</output-path>
+    <root id="archive" name="Clase25-Ejecutando.jar">
+      <element id="module-output" name="Clase25-Ejecutando" />
+    </root>
+  </artifact>
+</component>
